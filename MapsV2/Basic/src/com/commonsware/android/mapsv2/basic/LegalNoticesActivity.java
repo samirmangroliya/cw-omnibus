@@ -29,4 +29,5 @@ public class LegalNoticesActivity extends SherlockActivity {
 
     legal.setText(GooglePlayServicesUtil.getOpenSourceSoftwareLicenseInfo(this));
   }
+  
 }
